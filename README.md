@@ -1,32 +1,120 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A passionate Android and ML developer</h3>
+<h3 align="center">Android Developer | Machine Learning Engineer | Computer Vision Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsharmaggwp&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsharmaggwp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavsharmaggwp" alt="vaibhavsharmaggwp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning, LLM's, GEN AI**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **vs9736400462@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-sharma-b81453246/"(https://www.linkedin.com/in/vaibhav-sharma-b81453246/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-sharma-b81453246/" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhavv.s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavv.s_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vs9736400462/"(https://leetcode.com/u/vs9736400462/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vs9736400462/" height="30" width="40" /></a>
+<p align="center">
+  Building intelligent Android apps using ML, CV, and modern Android architecture
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavsharmaggwp&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavsharmaggwp&show_icons=true&locale=en&layout=compact" alt="vaibhavsharmaggwp" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavsharmaggwp&show_icons=true&locale=en" alt="vaibhavsharmaggwp" /></p>
+## 🚀 About Me
+- 📱 **Android Developer** focused on scalable, real-world applications  
+- 🤖 **Machine Learning & Computer Vision** practitioner  
+- 🧠 Strong interest in **Deep Learning, LLMs & Generative AI**  
+- 🏗 Experience with **ML model integration in Android apps**  
+- 👯 Open to collaborating on **Android + ML projects**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsharmaggwp&" alt="vaibhavsharmaggwp" /></p>
+📫 **Email:** vs9736400462@gmail.com  
+🔗 **GitHub:** https://github.com/VaibhavSharmaggwp  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vaibhav-sharma-b81453246/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/vs9736400462/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/vaibhavv.s_" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/VaibhavSharmaggwp" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Pinned Project
+### 🛣 Smart Pothole Detection Android Application
+
+🔹 **Problem:** Manual pothole reporting is slow, inefficient, and unreliable  
+🔹 **Solution:** An Android application that automatically detects potholes using **Computer Vision & ML**
+
+**🔑 Key Features**
+- 📷 Pothole detection using **YOLO-based Deep Learning model**
+- 📍 Automatic **GPS location tagging**
+- ☁️ **Firebase Realtime Database** for reports & role management
+- 🧑‍💼 **Admin, Officer, SDO, Worker dashboards**
+- 🗺 Interactive **map-based visualization**
+- 📊 Severity classification (Low / Medium / High)
+- 📡 Backend API integration for reporting
+
+**🛠 Tech Stack**
+- Android (Kotlin, Jetpack, MVVM)
+- Firebase (Auth, Database, Storage)
+- YOLO, OpenCV
+- REST APIs, Retrofit
+- Google Maps API
+
+🔗 **Repository:**  
+👉 https://github.com/VaibhavSharmaggwp
+
+---
+
+## 🤖 Machine Learning Focus
+- Supervised & Unsupervised Learning
+- Computer Vision (Object Detection, Image Classification)
+- Feature Engineering & Model Evaluation
+- Model deployment & **Android ML integration**
+- Tools: **PyTorch, TensorFlow, Scikit-Learn, Pandas**
+
+---
+
+## 📱 Android Development Focus
+- Kotlin & Jetpack Compose
+- MVVM + Clean Architecture
+- Firebase & REST APIs
+- Google Maps & Location Services
+- Background services & permissions
+- Scalable role-based dashboards
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavsharmaggwp&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavsharmaggwp&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsharmaggwp" />
+</p>
