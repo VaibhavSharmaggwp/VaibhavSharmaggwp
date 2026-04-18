@@ -118,3 +118,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsharmaggwp" />
 </p>
+## 🐍 My Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
