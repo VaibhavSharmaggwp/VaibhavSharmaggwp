@@ -1,11 +1,5 @@
-<h1 align="center">Vaibhav Sharma</h1>
-
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; Backend & Android &nbsp;·&nbsp; Applied Machine Learning
-</p>
-
-<p align="center">
-  Final-year Computer Science student (B.Tech '26) building scalable backend services and production-grade Android applications with Kotlin, Java, and Python.
+  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/header.svg" width="100%" alt="Vaibhav Sharma — Software Engineer · Backend & Android · Applied Machine Learning" />
 </p>
 
 <p align="center">
