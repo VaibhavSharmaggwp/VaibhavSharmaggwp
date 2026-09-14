@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/header.svg" width="100%" alt="Vaibhav Sharma — Software Engineer · Backend & Android · Applied Machine Learning" />
+  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/header1.svg" width="100%" alt="Vaibhav Sharma — Software Engineer · Backend & Android · Applied Machine Learning" />
 </p>
 
 <p align="center">
