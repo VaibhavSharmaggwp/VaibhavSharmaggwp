@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/header1.svg" width="100%" alt="Vaibhav Sharma — Software Engineer · Backend & Android · Applied Machine Learning" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-light.svg" />
+    <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-light.svg" width="100%" alt="VAIBHAV spelled out in a GitHub contribution graph" />
+  </picture>
 </p>
 
 <p align="center">
