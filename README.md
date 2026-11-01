@@ -1,11 +1,27 @@
+<h1 align="center">Hi, I'm Vaibhav 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Engineer+%E2%80%A2+Java+21+%2B+Spring+Boot+3;I+build+event-driven+systems+with+Kafka+%26+Redis;Currently+exploring+Agentic+AI+on+the+JVM;Open+to+SDE+%2F+Backend+roles+%F0%9F%9A%80" alt="Typing intro" />
+</p>
+
 ```bash
-┌──[ vaibhav@distributed-node-01 ]──[ /sys/engineers ]
-└──$ systemctl status backend-engineer.service
-● backend-engineer.service - Vaibhav Sharma (Backend & Distributed Systems)
-     Loaded: active (running) · 99.99% Uptime · Status: OPEN_TO_WORK
-      Stack: Java 21 · Spring Boot 3.4 · Apache Kafka · Redis · PostgreSQL
-     Engine: High-throughput event streaming, sub-ms caching & scalable APIs
-    Metrics: 600+ LeetCode algorithmic solutions loaded into memory
+$ curl -s https://vaibhavsharmaggwp.github.io/actuator/health | jq
+```
+```json
+{
+  "status": "UP",
+  "engineer": "Vaibhav Sharma",
+  "role": "Backend & Distributed Systems",
+  "components": {
+    "java":      { "status": "UP", "details": { "version": "21", "framework": "Spring Boot 3.4" } },
+    "kafka":     { "status": "UP", "details": { "shipped": "event-driven billing pipeline (INVOICELY)" } },
+    "redis":     { "status": "UP", "details": { "use": "sub-ms caching + distributed locks" } },
+    "postgres":  { "status": "UP", "details": { "use": "normalized schemas, indexed range queries" } },
+    "dsa":       { "status": "UP", "details": { "leetcodeSolved": "600+" } },
+    "agenticAI": { "status": "LEARNING" }
+  },
+  "hiring": { "status": "OPEN_TO_WORK", "roles": ["SDE", "Backend", "Agentic AI"] }
+}
 ```
 
 <p align="center">
@@ -13,6 +29,7 @@
 </p>
 
 <p align="center">
+  <a href="https://vaibhavsharmaggwp.github.io/"><img src="https://img.shields.io/badge/Portfolio-vaibhavsharmaggwp.github.io-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:vs9736400462@gmail.com"><img src="https://img.shields.io/badge/Email-vs9736400462%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vaibhav-sharma-b81453246/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/vs9736400462/"><img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
