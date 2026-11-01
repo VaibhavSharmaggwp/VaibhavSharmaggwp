@@ -39,22 +39,6 @@ $ curl -s https://vaibhavsharmaggwp.github.io/actuator/health | jq
 
 ---
 
-### `$ whoami`
-
-```java
-public class Vaibhav {
-    String role       = "SDE Intern @ Eduqynt Techviista";
-    String education  = "B.Tech CSE, Manipal University Jaipur (2026)";
-    String[] stack    = {"Java", "Spring Boot", "Kafka", "Redis", "PostgreSQL", "Kotlin"};
-    String[] focus    = {"Backend Systems", "System Design", "Agentic AI"};
-    int leetcode      = 600; // and counting
-    String achievement = "Finalist @ Deloitte Hacksplosion 2025";
-    boolean openToWork = true; // SDE / Backend roles
-}
-```
-
----
-
 ### ⚙️ Tech Stack
 
 <p align="center">
