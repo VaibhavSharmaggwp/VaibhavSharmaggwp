@@ -1,10 +1,12 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-light.svg" />
-    <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/graph-light.svg" width="100%" alt="VAIBHAV spelled out in a GitHub contribution graph" />
-  </picture>
-</p>
+```bash
+┌──[ vaibhav@distributed-node-01 ]──[ /sys/engineers ]
+└──$ systemctl status backend-engineer.service
+● backend-engineer.service - Vaibhav Sharma (Backend & Distributed Systems)
+     Loaded: active (running) · 99.99% Uptime · Status: OPEN_TO_WORK
+      Stack: Java 21 · Spring Boot 3.4 · Apache Kafka · Redis · PostgreSQL
+     Engine: High-throughput event streaming, sub-ms caching & scalable APIs
+    Metrics: 600+ LeetCode algorithmic solutions loaded into memory
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/terminal.svg" width="100%" alt="Spring Boot style terminal intro" />
