@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VaibhavSharmaggwp">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%3E+Backend+Engineer+%7C+Java+%2B+Spring+Boot;%3E+Building+distributed+systems+with+Kafka+%26+Redis;%3E+600%2B+LeetCode+problems+solved;%3E+Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/VaibhavSharmaggwp/VaibhavSharmaggwp/main/assets/terminal.svg" width="100%" alt="Spring Boot style terminal intro" />
 </p>
 
 <p align="center">

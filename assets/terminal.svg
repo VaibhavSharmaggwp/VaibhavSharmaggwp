@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+  <style>
+    .t { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 13px; fill: #c9d1d9; white-space: pre; }
+    .ban { font-size: 14px; fill: #3fb950; font-weight: 700; }
+    .g { fill: #8b949e; } .ok { fill: #3fb950; } .w { fill: #d29922; } .c { fill: #39c5cf; }
+    .b { fill: #58a6ff; } .p { fill: #bc8cff; } .y { fill: #e3b341; }
+    .l { opacity: 0; animation: show 0.35s ease-out forwards; }
+    @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .cur { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="898" height="458" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M1 11 a10 10 0 0 1 10 -10 h878 a10 10 0 0 1 10 10 v25 h-898 z" fill="#161b22"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="450" y="23" text-anchor="middle" class="t g">vaibhav@github: ~/profile — zsh</text>
+
+  <!-- typed command -->
+  <clipPath id="type"><rect x="20" y="52" height="24" width="0">
+    <animate attributeName="width" from="0" to="420" dur="1.4s" begin="0.3s" fill="freeze" calcMode="discrete"
+      values="0;40;80;120;160;200;240;280;320;360;420" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"/>
+  </rect></clipPath>
+  <text x="20" y="68" class="t" clip-path="url(#type)"><tspan class="ok">➜ </tspan><tspan class="b">~/vaibhav</tspan><tspan> ./mvnw spring-boot:run</tspan></text>
+
+  <!-- ASCII banner -->
+  <g class="l" style="animation-delay:1.9s">
+    <text x="20" y="102" class="t ban">__   __    _      ___    ___    _  _      _    __   __</text>
+    <text x="20" y="120" class="t ban">\ \ / /   /_\    |_ _|  | _ )  | || |    /_\   \ \ / /</text>
+    <text x="20" y="138" class="t ban"> \ V /   / _ \    | |   | _ \  | __ |   / _ \   \ V / </text>
+    <text x="20" y="156" class="t ban">  \_/   /_/ \_\  |___|  |___/  |_||_|  /_/ \_\   \_/  </text>
+  </g>
+  <text x="20" y="184" class="t l" style="animation-delay:2.2s"><tspan class="ok"> :: Spring Boot :: </tspan><tspan class="g">(v3.4.0)   </tspan><tspan class="y">:: Java 21 :: </tspan><tspan class="g">  :: Backend Engineer ::</tspan></text>
+
+  <!-- logs -->
+  <text x="20" y="216" class="t l" style="animation-delay:2.7s"><tspan class="g">01:33:07.112 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">c.v.VaibhavApplication     </tspan><tspan class="g">: </tspan><tspan>Starting VaibhavApplication (B.Tech CSE, MUJ '26)</tspan></text>
+  <text x="20" y="240" class="t l" style="animation-delay:3.15s"><tspan class="g">01:33:07.486 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">o.s.s.web.SecurityConfig   </tspan><tspan class="g">: </tspan><tspan>JWT + RBAC filter chain ready </tspan><tspan class="p">[ADMIN, MANAGER, EMPLOYEE]</tspan></text>
+  <text x="20" y="264" class="t l" style="animation-delay:3.6s"><tspan class="g">01:33:07.903 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">com.zaxxer.hikari.Pool     </tspan><tspan class="g">: </tspan><tspan>HikariPool-1 - </tspan><tspan class="b">PostgreSQL</tspan><tspan> connection established</tspan></text>
+  <text x="20" y="288" class="t l" style="animation-delay:4.05s"><tspan class="g">01:33:08.241 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">o.a.k.c.KafkaConsumer      </tspan><tspan class="g">: </tspan><tspan>Subscribed to </tspan><tspan class="p">invoice.created, payment.received</tspan></text>
+  <text x="20" y="312" class="t l" style="animation-delay:4.5s"><tspan class="g">01:33:08.517 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">i.l.core.RedisClient       </tspan><tspan class="g">: </tspan><tspan class="b">Redis</tspan><tspan> connected - cache + distributed locks ready</tspan></text>
+  <text x="20" y="336" class="t l" style="animation-delay:4.95s"><tspan class="g">01:33:08.790 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">d.v.ProblemSolver          </tspan><tspan class="g">: </tspan><tspan>Loaded </tspan><tspan class="y">600+</tspan><tspan> LeetCode solutions into memory</tspan></text>
+  <text x="20" y="360" class="t l" style="animation-delay:5.4s"><tspan class="g">01:33:09.034 </tspan><tspan class="w"> WARN </tspan><tspan class="c">a.v.AgenticAIModule        </tspan><tspan class="g">: </tspan><tspan>Still training - LLM agents, RAG, tool calling </tspan><tspan class="w">(in progress)</tspan></text>
+  <text x="20" y="384" class="t l" style="animation-delay:5.85s"><tspan class="g">01:33:09.388 </tspan><tspan class="ok"> INFO </tspan><tspan class="c">c.v.VaibhavApplication     </tspan><tspan class="g">: </tspan><tspan>Started on port </tspan><tspan class="y">8080</tspan><tspan> - status: </tspan><tspan class="ok">OPEN_TO_WORK</tspan></text>
+  <text x="20" y="408" class="t l" style="animation-delay:6.3s"><tspan class="g">                                        → roles: </tspan><tspan class="b">SDE</tspan><tspan class="g"> | </tspan><tspan class="b">Backend</tspan><tspan class="g"> | </tspan><tspan class="b">Agentic AI</tspan></text>
+
+  <!-- prompt -->
+  <g class="l" style="animation-delay:6.8s">
+    <text x="20" y="438" class="t"><tspan class="ok">➜ </tspan><tspan class="b">~/vaibhav</tspan><tspan> </tspan></text>
+    <rect class="cur" x="104" y="426" width="8" height="15" fill="#c9d1d9"/>
+  </g>
+</svg>
